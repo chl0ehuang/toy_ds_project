@@ -1,5 +1,5 @@
 # toy_ds_project
-class demo
+project creation date: October 2nd, 2025
 
 add a line on github
 no need to do gitadd to local files
